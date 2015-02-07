@@ -1,0 +1,11 @@
+{
+  "name": "react-pluralsight",
+  "version": "1.0.0",
+  "description": "React Pluralsight Class",
+  "main": "node.js",
+  "author": "Jeffrey Williams",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
